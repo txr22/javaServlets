@@ -2,8 +2,12 @@ hola hola
 desde la rama de pruebas
 06022020 16:41
 modificando archivo desde vim en la teminal de bach
+
 intentando subir a pruebas....
 
 
+
+
+esto es desde pruebas
 
 
