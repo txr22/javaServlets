@@ -5,5 +5,6 @@ modificando archivo desde vim en la teminal de bach
 intentando subir a pruebas....
 modificado en notepad
 CAMBIOS SOLO EN MASTER.
+MODIFICANDO EN LOCAL EN RAMA GET-DIR, PARA AÑADIRLO AL MASTER
 
 
